@@ -1,6 +1,6 @@
 ### Hi! 🫵😁 I'm Yoki Jati Perkasa.
 
-A Mobile Android Developer, Currently pursuing a degree in Information Technology at STMIK Mardira Indonesia, and
+A Mobile Android & Fullstack Web Developer, Currently pursuing a degree in Information Technology at STMIK Mardira Indonesia, and
 Graduated from Independent Study Program with Learning Path Mobile Development at Bangkit Academy led by
 Google, Gojek, Tokopedia, Traveloka, I have high motivation in the field of Android development and always follow
 Latest technology, Committed to creating
